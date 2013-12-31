@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DrawBox</name>
+    </assembly>
+    <members>
+        <member name="T:DimaSoft.DrawBox">
+            <summary>
+            Элемент управления для рисования. Поддерживает двойную буфферизацию
+            </summary>
+        </member>
+        <member name="F:DimaSoft.DrawBox.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="P:DimaSoft.DrawBox.DoubleBuffer">
+            <summary>
+            Регулирует двойную буферизацию. Включено по умолчанию
+            </summary>
+        </member>
+    </members>
+</doc>
